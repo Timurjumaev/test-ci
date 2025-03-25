@@ -1,1 +1,1 @@
-print("Salom, jigar!")
+prin("Salom, jigar!")
