@@ -1,1 +1,1 @@
-print("Salom, jigar!")x
+print("Salom, jigar!")
